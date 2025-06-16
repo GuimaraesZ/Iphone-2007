@@ -39,3 +39,6 @@ pom.xml
 src/test/
 src/main/resources/
 src/main/java/Account/AccountApplication.java
+
+# Compiled class files
+*.class
